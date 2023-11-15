@@ -3,7 +3,7 @@
 
 如果觉得不错，可以关注我的公众号，这里的文章会更精彩！！
 
-<img src="https://github.com/meetalgo/awesome_python/assets/92194267/c16fc066-f3bd-434f-97ac-d56adb3e8229" width=200 height=100 />
+<img src="https://github.com/meetalgo/awesome_python/assets/92194267/c16fc066-f3bd-434f-97ac-d56adb3e8229" width=400 height=400 />
 
 ### 数据处理与分析
 
