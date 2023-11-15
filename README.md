@@ -55,7 +55,7 @@ Lux 可通过自动化可视化和数据分析过程来促进快速、轻松的�
 
 [Bamboolib，一个超酷的 python 库](https://mp.weixin.qq.com/s?__biz=MzU5NjE0NjI1MQ==&amp;mid=2247488650&amp;idx=1&amp;sn=c27e391859020ce88b7b92aa453009f0&amp;chksm=fe6675aec911fcb8bf27702be4e4d1fa27ac9ebeaa96e9aec4a5a8b992d161b20d2d269821d5&token=888886507&lang=zh_CN#rd)
 
-####Spotlight 
+#### Spotlight 
 
 Spotlight 是一种开源工具，提供了一种简化的交互式方法来探索数据。
 
@@ -141,7 +141,7 @@ LazyPredict 是一个强大的机器学习 Python 库，它提供了一种易于
 
 [lazypredict，一个超强的 python 库](https://mp.weixin.qq.com/s?__biz=MzU5NjE0NjI1MQ==&amp;mid=2247489045&amp;idx=1&amp;sn=336179a8b85b937d6baf3b6ad7dc438e&amp;chksm=fe667731c911fe2799edf5469362abdc1f0faa3bf2986a97509b4dc698520675336e684082bd&token=888886507&lang=zh_CN#rd)
 
-####Hyperopt-sklearn
+#### Hyperopt-sklearn
 
 **Hyperopt-sklearn** 是一个流行的 Python 库，旨在简化 scikit-learn 模型的超参数优化过程。
 
